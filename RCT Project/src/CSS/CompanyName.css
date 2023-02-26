@@ -1,0 +1,7 @@
+@media screen and (max-width:700px) {
+    .MainDiv{
+        display: flex;
+        flex-direction: column;
+        font-size: 15px;
+    }
+}

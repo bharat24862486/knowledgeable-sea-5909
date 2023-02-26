@@ -1,0 +1,36 @@
+.MainCont{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0%;
+    padding: 5% 2%;
+}
+.FirstMainCont{
+    margin-top: 5%;
+    margin-left: 2%;
+}
+
+.SecondMainCont{
+    width: 50%;
+    /* margin-right: 5%; */
+}
+
+.SecondMainCont1{
+    width: 60%;
+    height: 600px;
+    /* margin-right: 5%; */
+}
+
+
+@media screen and (max-width: 950px) {
+    .MainCont{
+        flex-direction: column;
+    }
+    .FirstMainCont{
+        text-align: center;
+    }
+    .SecondMainCont{
+        display: block;
+        margin: auto;
+    }
+    
+}
