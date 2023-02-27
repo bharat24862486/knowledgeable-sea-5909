@@ -7,3 +7,11 @@ Link
 https://famous-concha-4eee42.netlify.app/
 
 Project Type:- Individual Project
+
+Steps to follow-
+1. Sign Up
+2. Login
+3. Visit Landing page
+4. Click on pricing part
+5. Compare pricing
+6. Purchase it
